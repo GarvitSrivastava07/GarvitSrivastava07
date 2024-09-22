@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GarvitSrivastava
-- 👀 I’m interested in Software Dev, Web Development & Web Designing.
+- 👀 I’m interested in Software/Game Testing, Software Dev, Web Development & Web Designing.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me Dm me up on linkedin
