@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 ### 👨‍💻 I’m currently working on
+### 🔭 👨‍💻 I’m currently working on
 - Planning and executing multi-platform test suites across **VR headsets (Meta Quest/SteamVR)**, **PC/Console games**, and **web applications**.
 - Building comprehensive manual testing artifacts (Test Plans, RTMs, and Postman API test collections) to showcase on my GitHub portfolio.
 
