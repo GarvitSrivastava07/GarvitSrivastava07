@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi I'm Garvit Srivastava
 
 ### 🔭 👨‍💻 I’m currently working on
 - Planning and executing multi-platform test suites across **VR headsets (Meta Quest/SteamVR)**, **PC/Console games**, and **web applications**.
