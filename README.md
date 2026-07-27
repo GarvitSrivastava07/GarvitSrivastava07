@@ -6,11 +6,11 @@ Hi I'm Garvit Srivastava
 - Building comprehensive manual testing artifacts (Test Plans, RTMs, and Postman API test collections) to showcase on my GitHub portfolio.
 
 ### 👯 I’m looking to collaborate on
-- **Open-source games, VR indie projects, and web applications** that need structured manual testing, exploratory testing, or bug triage.
+- **Open source games, AAA-Titles, VR indie projects, and Web applications** that need structured manual testing, exploratory testing, or bug triage.
 - Collaborative QA projects focused on UI/UX ergonomics, spatial tracking validation, and cross-browser compatibility.
 
 ### 🤝 I’m looking for help with
-- Deepening my knowledge in **VR performance profiling tools** (like RenderDoc) and advanced backend database testing.
+- Deepening my knowledge in **VR performance profiling tools** (like RenderDoc) and advanced backend database testings.
 - Industry best practices for transitioning structured manual test suites into automated framework setups.
 
 ### 🌱 I’m currently learning
@@ -18,8 +18,8 @@ Hi I'm Garvit Srivastava
 - **API & Backend Testing:** Advanced Postman scripting, JSON Schema validation, and complex SQL joins for database verification.
 
 ### 💬 Ask me about
-- **Game & Physics QA:** How to break game logic, reproduce edge-case collision bugs, and document clear steps to reproduce for developers.
-- **VR Testing:** Unique edge cases in VR—from controller input mapping to FOV glitches and comfort metrics.
+- **Game & Quality Assurance:** How to break game logic, reproduce edge-case collision bugs, and document clear steps to reproduce for developers.
+- **VR Testing:** Unique edge cases in VR from controller input mapping to FOV glitches and comfort metrics.
 - **Software & Web Testing:** Cross-browser testing, boundary value analysis, exploratory testing charters, and writing rock-solid bug reports.
 
 ### ⚡ Fun fact
