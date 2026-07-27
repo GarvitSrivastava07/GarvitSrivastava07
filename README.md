@@ -1,5 +1,27 @@
 # 💫 About Me:
-### 🔭 I’m currently working on<br>* Planning and executing multi-platform test suites across **VR headsets (Meta Quest/SteamVR)**, **PC/Console games**, and **SaaS web applications**.<br>* Building comprehensive manual testing artifacts (Test Plans, RTMs, and Postman API test collections) to showcase on my GitHub portfolio.<br><br>### 👯 I’m looking to collaborate on<br>* **Open-source games, VR indie projects, and web applications** that need structured manual testing, exploratory testing, or bug triage.<br>* Collaborative QA projects focused on UI/UX ergonomics, spatial tracking validation, and cross-browser compatibility.<br><br>### 🤝 I’m looking for help with<br>* Deepening my knowledge in **VR performance profiling tools** (like Oculus Developer Hub / RenderDoc) and advanced backend database testing.<br>* Industry best practices for transitioning structured manual test suites into automated framework setups.<br><br>### 🌱 I’m currently learning<br>* **VR & Spatial Computing QA:** Session-based testing protocols for motion sickness mitigation, frame-time optimization, and boundary/room-scale tracking.<br>* **API & Backend Testing:** Advanced Postman scripting, JSON Schema validation, and complex SQL joins for database verification.<br><br>### 💬 Ask me about<br>* **Game & Physics QA:** How to break game logic, reproduce edge-case collision bugs, and document clear steps to reproduce for developers.<br>* **VR Testing:** Unique edge cases in VR—from controller input mapping to FOV glitches and comfort metrics.<br>* **Software & Web Testing:** Cross-browser testing, boundary value analysis, exploratory testing charters, and writing rock-solid bug reports.<br><br>### ⚡ Fun fact<br>* I actively try to clip through walls and walk outside map boundaries in every video game I play it’s not just a habit, it’s a professional calling! 🎮🥽
+### 🔭 ### 👨‍💻 I’m currently working on
+- Planning and executing multi-platform test suites across **VR headsets (Meta Quest/SteamVR)**, **PC/Console games**, and **web applications**.
+- Building comprehensive manual testing artifacts (Test Plans, RTMs, and Postman API test collections) to showcase on my GitHub portfolio.
+
+### 👯 I’m looking to collaborate on
+- **Open-source games, VR indie projects, and web applications** that need structured manual testing, exploratory testing, or bug triage.
+- Collaborative QA projects focused on UI/UX ergonomics, spatial tracking validation, and cross-browser compatibility.
+
+### 🤝 I’m looking for help with
+- Deepening my knowledge in **VR performance profiling tools** (like RenderDoc) and advanced backend database testing.
+- Industry best practices for transitioning structured manual test suites into automated framework setups.
+
+### 🌱 I’m currently learning
+- **VR & Spatial Computing QA:** Session-based testing protocols for motion sickness mitigation, frame-time optimization, and boundary/room-scale tracking.
+- **API & Backend Testing:** Advanced Postman scripting, JSON Schema validation, and complex SQL joins for database verification.
+
+### 💬 Ask me about
+- **Game & Physics QA:** How to break game logic, reproduce edge-case collision bugs, and document clear steps to reproduce for developers.
+- **VR Testing:** Unique edge cases in VR—from controller input mapping to FOV glitches and comfort metrics.
+- **Software & Web Testing:** Cross-browser testing, boundary value analysis, exploratory testing charters, and writing rock-solid bug reports.
+
+### ⚡ Fun fact
+- I actively try to clip through walls and walk outside map boundaries in every video game I play it’s not just a habit, it’s a professional calling! 🎮🥽
 
 
 ## 🌐 Socials:
