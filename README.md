@@ -5,7 +5,7 @@
 - Building comprehensive manual testing artifacts (Test Plans, RTMs, and Postman API test collections) to showcase on my GitHub portfolio.
 
 ### 👯 I’m looking to collaborate on
-- **Open source games, AAA-Titles, VR indie projects, and Web applications** that need structured manual testing, exploratory testing, or bug triage.
+- **Software products/applications, Open source games, AAA-Titles, VR indie projects, and Web applications** that need structured manual testing, exploratory testing, or bug triage.
 - Collaborative QA projects focused on UI/UX ergonomics, spatial tracking validation, and cross-browser compatibility.
 
 ### 🤝 I’m looking for help with
